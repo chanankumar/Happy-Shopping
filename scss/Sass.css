@@ -1,0 +1,8 @@
+@media (min-width: 768px) and (max-width: 992px) {
+  .card-body {
+    align-content: center; } }
+@media (min-width: 576px) and (max-width: 768px) {
+  .card-body {
+    align-content: center; } }
+
+/*# sourceMappingURL=Sass.css.map */
